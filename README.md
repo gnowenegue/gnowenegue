@@ -1,3 +1,5 @@
+![Eugene Wong — Software Engineer · Language Technology · Applied AI/ML](banner.png)
+
 # Hi, I'm Eugene 👋
 
 Software engineer with extensive industry experience, currently
